@@ -1,0 +1,3 @@
+api_id = 20726812
+api_hash = '95797abd507841a756101a6c580ad499'
+key = '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'
